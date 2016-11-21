@@ -8,7 +8,7 @@ import javax.persistence.*;
 @Entity
 public class Airport {
 
-	private Long id;// this is test
+	private Long id;// 
 	private String code;
 	private String name;
 	private String country;
